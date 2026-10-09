@@ -1,0 +1,32 @@
+th{
+color:indigo;
+background-color:grey;
+text-align: center;
+}
+td{
+text-align: center;
+}
+.sistemas{
+background-color:greenyellow;
+}
+.servicios{
+background-color:lightblue;
+}
+.ipe{
+background-color:lightgrey;
+}
+.si{
+background-color:orange;
+}
+.pi{
+background-color:orangered;
+}
+.ingles{
+background-color:pink;
+}
+.optativa{
+background-color:indigo;
+}
+.aplicaciones-web{
+background-color:green;
+}
